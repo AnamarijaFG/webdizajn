@@ -1,2 +1,2 @@
 # webdizajn
-testni
+Readme file na početnoj stranici
